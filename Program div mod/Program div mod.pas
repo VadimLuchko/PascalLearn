@@ -5,9 +5,9 @@ var
   x: Real;
 
 begin
-  write ('¬ведите число A: ');
+  write ('Enter number A: ');
   readln (a);
-  write ('¬ведите число B: ');
+  write ('Enter number B: ');
   readln (b);
   
   writeln;
