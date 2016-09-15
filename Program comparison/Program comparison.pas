@@ -4,12 +4,12 @@ var
   a, b: integer;
 
 begin
-  Write('Введите А:'); Readln(a);
-  Write('Введите B:'); Readln(b);
+  Write('Enter A:'); Readln(a);
+  Write('Enter B:'); Readln(b);
   
-  if(a=b) then Writeln('А=B');
-  if(a>b) then Writeln('А>B');
-  if(a<b) then Writeln('А<B');
+  if(a=b) then Writeln('A=B');
+  if(a>b) then Writeln('A>B');
+  if(a<b) then Writeln('A<B');
   
   Readkey;
 end.
