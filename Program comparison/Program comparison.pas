@@ -4,6 +4,7 @@ var
   a, b: integer;
 
 begin
+  Writeln('Comparison');
   Write('Enter A:'); Readln(a);
   Write('Enter B:'); Readln(b);
   
