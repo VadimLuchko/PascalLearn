@@ -1,5 +1,8 @@
 Program discriminant;
 
+//Author of this program Lucko Vadim
+//luchok.vadim@gmail.com
+
 uses CRT;
 
 var a,b,c,d,x1,x2 : real;
